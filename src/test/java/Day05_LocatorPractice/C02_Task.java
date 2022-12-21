@@ -69,6 +69,6 @@ public class C02_Task {
     @After
     public void tearDown(){
         // test sonrasinda driver kapatmak (varsa raporlari dosyalamak) icin kullanilir.
-        driver.quit();
+        //driver.quit();
     }
 }
